@@ -1,0 +1,26 @@
+.contenedor-card {
+    max-width: 330px;
+    height: 70vh;
+    box-shadow: 1px 1px 15px 1px;
+    margin: 30px;
+    font-family: Lato, sans-serif;
+}
+
+.img-card {
+    max-width: 330px;
+    height: 200px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 20;
+    margin-top: 20px;
+    color: #34435E;
+}
+
+.informacion {
+    margin: 15px;
+    text-align: justify;
+    font-size: 18px;
+}
+
